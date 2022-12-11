@@ -1,1 +1,0 @@
-mongoimport -u mongo -p mongo --db sample --collection sample_collection --file /docker-entrypoint-initdb.d/sample.json --jsonArray
